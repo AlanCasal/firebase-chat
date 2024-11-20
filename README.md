@@ -5,7 +5,7 @@
   <img src="./assets/images/preview2.png" width=600" title="ui design">
 </p>
 
-Chat app that uses <a href="https://firebase.google.com/codelabs/firebase-android#0">Firebase <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAABYElEQVR4Ab3WAUQDURgH8A8ACCAABHLBIACCUBAkgIAgIkEAhIEkgEBAIEAER5ZgAImupYCSAoHD3u5ve3O3P7f/vb0Nf87s/O5777vvnm0ebS80QTe9J9bqJZZFAwXMIcX17VzBz8SWPFZC23MDe6v2AoRR24kOfm3ZHmMVtKWB+t79EFRNLoJ6owjJYoFtARM6VwTx5CLoczgr6Jrm79SWJRB/dI92X+R1lJvvXXNvK0gjtCuBAFzH3DhpkcthPKyiaLapIBDKufU9+rsPNLyBJqvbIOzJg0GV5vVgxw6AUK4JlavE/K0DT7hCgEKVMsgVMpgy+H8cDPIeKlXmZxqodiknDQK7CvigVKksKT5p08E7W2OwhOpNk0uThqcNB1V6TJ0yDPLSZnVL+7HOFfI5Rwd5P3kf/ZhD+NPUEOR3M61i5W7FfuKAhWWMeohyF3ZV5Bkogmv8hkaLf0yMlAG6buWX70J8MQAAAABJRU5ErkJggg==" width="14" alt="firebase logo"></a> to handle messaging, with a very simple authentication process for Sign in and Sign up.
+Chat app that uses <a href="https://firebase.google.com/codelabs/firebase-android#0">Firebase <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" width="14" alt="firebase logo"></a> to handle messaging, with a very simple authentication process for Sign in and Sign up.
 
 ## Run App
 
