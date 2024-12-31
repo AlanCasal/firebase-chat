@@ -60,7 +60,6 @@ const SignIn = () => {
     return () => {
       keyboardDidShowListener.remove();
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
