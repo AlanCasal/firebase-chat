@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/app mockup.jpeg" width=600" title="ui design">
+  <img src="./assets/images/app mockup.jpeg" width="100%" title="ui design">
 </p>
 
 Chat app that uses <a href="https://firebase.google.com/codelabs/firebase-android#0">Firebase <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" width="14" alt="firebase logo"></a> to handle messaging, with a very simple authentication process for Sign in and Sign up.
