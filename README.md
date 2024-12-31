@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="./assets/images/preview1.png" width=600" title="ui design">
-</p>
-<p align="center">
-  <img src="./assets/images/preview2.png" width=600" title="ui design">
+  <img src="./assets/images/app mockup.jpeg" width=600" title="ui design">
 </p>
 
 Chat app that uses <a href="https://firebase.google.com/codelabs/firebase-android#0">Firebase <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" width="14" alt="firebase logo"></a> to handle messaging, with a very simple authentication process for Sign in and Sign up.
@@ -23,7 +20,7 @@ Chat app that uses <a href="https://firebase.google.com/codelabs/firebase-androi
 
 ## Credits
 
-- This app is based on Nomi's<a href='https://www.youtube.com/watch?v=INxkJno2gIs&list=PLKWMD009Q4qRvrfjGotVfUbqGoLdvRDN4&index=2'> Build a React Native App with Firebase Auth & Chat</a> tutorial <img src='https://yt3.ggpht.com/7-rjEgICXaRN9ISCrklBOD5XNyFjkrlPj1Q8fLdv4uM2WgUuj4Ee3_rwktwJS2jTgRivhx2MsA=s48-c-k-c0x00ffffff-no-rj' width="20" title="ui design" style="border-radius: 50%; vertical-align: middle; border: 2px solid white;">
+- This app is based on Nomi's <img src='https://yt3.ggpht.com/7-rjEgICXaRN9ISCrklBOD5XNyFjkrlPj1Q8fLdv4uM2WgUuj4Ee3_rwktwJS2jTgRivhx2MsA=s48-c-k-c0x00ffffff-no-rj' width="20" title="ui design" style="border-radius: 50%; vertical-align: middle; border: 2px solid white;"><a href='https://www.youtube.com/watch?v=INxkJno2gIs&list=PLKWMD009Q4qRvrfjGotVfUbqGoLdvRDN4&index=2'> Build a React Native App with Firebase Auth & Chat</a> tutorial
 - <a href='https://expo.dev/'>Expo</a>
 - <a href='https://docs.expo.dev/router/installation/'>Expo Router</a>
 - <a href='https://www.nativewind.dev/'>NativeWind</a>
