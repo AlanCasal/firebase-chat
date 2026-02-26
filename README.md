@@ -7,8 +7,6 @@
 > Mobile chat app built with Expo + React Native and powered by Firebase Authentication + Firestore for real-time messaging.
 
 [![Last Commit](https://img.shields.io/github/last-commit/AlanCasal/firebase-chat?style=for-the-badge&logo=github)](https://github.com/AlanCasal/firebase-chat/commits/main)
-[![Firebase Auth](https://img.shields.io/badge/firebase-auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/auth)
-[![Cloud Firestore](https://img.shields.io/badge/firebase-firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
 
 ### Core Stack
 
@@ -16,10 +14,12 @@
 [![Expo](https://img.shields.io/badge/expo-52-000020?style=for-the-badge&logo=expo)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/react_native-0.76-20232A?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![React](https://img.shields.io/badge/react-18.3-149ECA?style=for-the-badge&logo=react)](https://react.dev/)
-[![Firebase](https://img.shields.io/badge/firebase-11.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 ### Key Libraries
 
+[![Firebase](https://img.shields.io/badge/firebase-11.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Firebase Auth](https://img.shields.io/badge/firebase-auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/auth)
+[![Cloud Firestore](https://img.shields.io/badge/firebase-firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs/firestore)
 [![Expo Router](https://img.shields.io/badge/expo_router-4.0-111111?style=for-the-badge)](https://docs.expo.dev/router/introduction/)
 [![NativeWind](https://img.shields.io/badge/nativewind-4.1-38B2AC?style=for-the-badge)](https://www.nativewind.dev/)
 [![AsyncStorage](https://img.shields.io/badge/asyncstorage-1.23-1976D2?style=for-the-badge)](https://react-native-async-storage.github.io/async-storage/)
