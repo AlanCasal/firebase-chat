@@ -26,11 +26,6 @@
 [![Reanimated](https://img.shields.io/badge/Reanimated-3.16-6C5CE7?style=for-the-badge)](https://docs.swmansion.com/react-native-reanimated/)
 [![Popup Menu](https://img.shields.io/badge/react_native_popup_menu-0.16-0F766E?style=for-the-badge)](https://github.com/instea/react-native-popup-menu)
 
-## Project Health
-
-[![Tests Not Configured](https://img.shields.io/badge/tests-not%20configured-lightgrey?style=for-the-badge)](#project-health)
-[![Coverage Not Configured](https://img.shields.io/badge/coverage-not%20configured-lightgrey?style=for-the-badge)](#project-health)
-
 ## Why This Project Stands Out
 
 - ⚡ Firebase-powered real-time chat updates using Firestore listeners.
